@@ -8,7 +8,7 @@ using System.IO;
 
 namespace ContentOfDirectory
 {
-   public class Dir
+   public static class Dir
     {
         static string tempStr;
         public static void printContent(string input)
